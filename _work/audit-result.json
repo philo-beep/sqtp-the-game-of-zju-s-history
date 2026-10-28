@@ -1,0 +1,10 @@
+{
+  "changed_parts": [
+    "docProps/core.xml",
+    "docProps/custom.xml",
+    "word/document.xml"
+  ],
+  "privacy_name_count_checked": 9,
+  "table_and_page_structure": "unchanged",
+  "source_sha256": "30ca55324227f7f25ae41cc36eb12a451b0c77e572461425d669a60a4f73c7fd"
+}
